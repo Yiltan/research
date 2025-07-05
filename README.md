@@ -3,6 +3,10 @@ A public copy of things I've worked on.
 
 ## Peer-Reviewed Conference Articles
 
+**Y. H. Temuçin**, A. B. Sedeh, W. Schonbein, R. Grant, and A. Afsahi, "Utilizing Network Hardware Parallelism for MPI Partitioned Collective Communication", *33rd Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP 2025)*, Turin, Italy, Mar 12 - 14, 2025
+
+[\[paper\]](./2025_PDP/2025_PDP.pdf) [\[bib\]](./2025_PDP/2025_PDP.bib)
+
 **Y. H. Temuçin**, M. Gazimirsaeed, R. E. Grant and A. Afsahi, "ROCm-Aware Leader-based Designs for MPI Neighbourhood Collectives" in *ISC High Performance 2024 Research Paper Proceedings (39th International Conference)*, Hamburg, Germany, 2024 pp. 1-12.  doi: 10.23919/ISC.2024.10528923
 
 [\[paper\]](./2024_ISC/2024_ISC.pdf) [\[bibtex\]](./2024_ISC/2024_ISC.bib)
@@ -23,10 +27,6 @@ P. Alizadeh, A. Sojoodi, **Y. H. Temuçin**, and A Afsahi, "Efficient Process Ar
 **Y. H. Temuçin**, A. Sojoodi, P. Alizadeh and A. Afsahi, "Efficient Multi-Path NVLink/PCIe-Aware UCX based Collective Communication for Deep Learning", *2021 IEEE Symposium on High-Performance Interconnects (HOTI)*, Santa Clara, CA, USA, 2021, pp. 25-34, doi: 10.1109/HOTI52880.2021.00018
 
 [\[paper\]](./2021_HotI/2021_HotI.pdf) [\[slides\]](./2021_HotI/2021_HotI_slides.pdf) [\[bibtex\]](./2021_HotI/2021_HotI.bib)
-
-**Y. H. Temuçin**, A. B. Sedeh, W. Schonbein, R. Grant, and A. Afsahi, "Utilizing Network Hardware Parallelism for MPI Partitioned Collective Communication", *33rd Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP 2025)*, Turin, Italy, Mar 12 - 14, 2025
-
-[\[paper\]](./2025_PDP/2025_PDP.pdf) [\[bib\]](./2025_PDP/2025_PDP.bib)
 
 ## Peer-Reviewed Workshop Articles
 **Y. H. Temuçin**, W. Schonbein, S. Levy, A. Sojoodi, R. Grant and A. Afsahi, "Design and Implementation of MPI-Native GPU-Initiated MPI Partitioned Communication" in *12th Workshop on Extreme Scale MPI (ExaMPI)*, Atlanta, GA, USA, Nov. 17, 2024.
